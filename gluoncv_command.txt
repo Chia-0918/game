@@ -1,0 +1,6 @@
+python strain_ssd.py --dataset-root C:\\Users\\ja055\\.mxnet\\dataset --batch-size 2 --epochs 100 --gpus 0
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+<div id='info'><a href="javascript:toggleCamera();">toggle</a></div>
+<script src="http">
